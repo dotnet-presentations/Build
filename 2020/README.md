@@ -30,10 +30,10 @@ This part of the repo contains the links to the slides and code samples from our
    
 ### Build native apps for any device with .NET
 
-   - Speakers: [David Ortinau](https://twitter.com/davidortinau), [Maddy Leger](https://twitter.com/maddyleger1)
-   - [Slides]()
+   - Speakers: [Maddy Leger](https://twitter.com/maddyleger1), [David Ortinau](https://twitter.com/davidortinau)
+   - [Slides](2020_05_19_Xamarin_Build.pptx)
    - Videos: [Channel 9]() | [YouTube]()
-   - [Code]()
+   - [Code](https://github.com/xamarin/app-xamarintv)
    
    
 ### Cloud Native Apps with .NET and Azure Kubernetes Service
