@@ -10,9 +10,8 @@ This part of the repo contains the links to the slides and code samples from our
 ### Journey to One .NET
 
    - Speakers: [Scott Hunter](https://twitter.com/coolcsh), [Scott Hanselman](https://twitter.com/shanselman)
-   - [Slides]()
-   - Videos: [Channel 9]() | [YouTube]()
-   - [Code]()
+   - Slides: [Long (90 min)](dotNET Build 2020.pptx) | [Short (30 min)](.NET Build 2020 (Short).pptx)
+   - Videos: [Long](https://aka.ms/dotnetjourney) | [Short]()   
 
 ### Modern Web UI with ASP.NET Blazor
 
