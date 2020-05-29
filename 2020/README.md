@@ -36,9 +36,9 @@ This part of the repo contains the links to the slides and code samples from our
 ### Cloud Native Apps with .NET and Azure Kubernetes Service
 
 - Speakers: [Glenn Condron](https://twitter.com/condrong)
-- [Slides]()
+- [Slides](CloudNativeApps.pptx)
 - [Video](https://mybuild.microsoft.com/sessions/d8c30325-8134-40a3-8849-e109df17f6fe)
-- [Code]() 
+- [Code](https://github.com/glennc/blazing-backend/tree/glennc/sqlserver)
 
 ### Increase your .NET productivity with Visual Studio and Visual Studio for Mac
 
